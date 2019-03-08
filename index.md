@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+title: Welcome to the Stand With Guihulngan Website
+
+description: Be updated with the recent developments of our campaigns!
 
 You can use the [editor on GitHub](https://github.com/standwithguihulngan/standwithguihulngan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
